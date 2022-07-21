@@ -1,0 +1,6 @@
+﻿  sm4.cpp
+C:\Users\86133\source\repos\More_thread_SM4\More_thread_SM4\sm4.cpp(62,11): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+C:\Users\86133\source\repos\More_thread_SM4\More_thread_SM4\sm4.cpp(63,11): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+C:\Users\86133\source\repos\More_thread_SM4\More_thread_SM4\sm4.cpp(64,11): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+C:\Users\86133\source\repos\More_thread_SM4\More_thread_SM4\sm4.cpp(65,9): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+  More_thread_SM4.vcxproj -> C:\Users\86133\source\repos\More_thread_SM4\Debug\More_thread_SM4.exe
